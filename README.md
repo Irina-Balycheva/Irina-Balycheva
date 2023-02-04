@@ -9,7 +9,7 @@
 
 ### :woman_technologist: Обо мне :
 
-:nerd_face: Я изучаю Data Science.   <img src="https://media3.giphy.com/media/G1ifnX4d5tYFACktp9/200w.webp?cid=ecf05e4707g901wt3lrkd64jgref39jzxqqo0yp8j5olw6di&rid=200w.webp&ct=g" width="75"/>
+:nerd_face: Изучаю Data Science.   <img src="https://media3.giphy.com/media/G1ifnX4d5tYFACktp9/200w.webp?cid=ecf05e4707g901wt3lrkd64jgref39jzxqqo0yp8j5olw6di&rid=200w.webp&ct=g" width="75"/>
 </div>
 
 :woman_student: Закончила обучение в Yandex.Practicum по специализации DS+.
