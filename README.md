@@ -4,7 +4,7 @@
   
 ### <div id="header" align="center">  I'm glad to welcome you on my profile! </div>
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/ULUQvQ0LeGKZvvxk7Y/giphy.gif?cid=ecf05e47uqy6h0uya1vn7fk05p5tfsyekhmcsl0jd61zwy13&rid=giphy.gif&ct=g" width="150"/>
+  <img src="https://media2.giphy.com/media/ULUQvQ0LeGKZvvxk7Y/giphy.gif?cid=ecf05e47uqy6h0uya1vn7fk05p5tfsyekhmcsl0jd61zwy13&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 ### :woman_technologist: Обо мне :
