@@ -11,7 +11,7 @@
 
 :world_map: I'm from Moscow.
 
-:point_right: You can conntact with me in [telegram](https://t.me/IrinaBalycheva) 
+:point_right: You can contact with me in [telegram](https://t.me/IrinaBalycheva) 
 
 
 
