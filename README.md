@@ -1,4 +1,4 @@
-### <div id="header" align="center"> 👋 Рада приветствовать вас на моей страничке!  </div>
+### <div id="header" align="center">  👋 Рада приветствовать вас на моей страничке!  </div>
 <div id="header" align="center">
   </div>
   
